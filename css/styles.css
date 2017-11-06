@@ -1,0 +1,41 @@
+body{
+	color: black;
+	font-size: 14px;
+	background-color: #f0e1e1;
+}
+#header-nav{
+	color: black;
+	background-color: #20f2a099;
+	border-radius: 0;
+	border:0;	
+}
+.navbar-brand{
+	color:black;
+	margin-top: 0px;
+	margin-bottom: 30px;
+	
+	color: maroon;
+
+}
+#collapsable-nav{
+	background-color: #322c33;
+}
+.navbar-brand a:hover{
+	text-decoration: none;
+}
+
+.navbar-header button{
+	margin-top: 40px;
+}
+div ul li{
+	text-align:center;
+	font-size: 1.5em;
+	
+}
+#nav-list{
+	margin: 0;
+}
+div article {
+	background-color: #fff;
+	height: 1000px;
+}
